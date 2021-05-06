@@ -6,9 +6,14 @@ Welcome to the Official Hydro, The Discord Bot Website. Here is where you will b
 
 # Latest News
 ```
-# Website Release
+Website Release
 
 Welcome to the Official Hydro - The Discord Bot Website
 
 06/04/2021
+```
+
+# Latest Bot Release
+```
+No Releases Added to GitHu!
 ```
