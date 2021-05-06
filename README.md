@@ -10,10 +10,22 @@ Website Release
 
 Welcome to the Official Hydro - The Discord Bot Website
 
-06/04/2021
+06/05/2021
 ```
 
 # Latest Bot Release
 ```
-No Releases Added to GitHub!
+V1.017 BETA
+Released on 06/05/2021
+
+V1.017 BETA Changelog
+
+Improved Flight Calendar for British Jet
+
+Hydro Website Release
+
+Future Updates V1.018 BETA
+
+Hydro Website Command Added 
+
 ```
