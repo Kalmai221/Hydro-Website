@@ -15,5 +15,5 @@ Welcome to the Official Hydro - The Discord Bot Website
 
 # Latest Bot Release
 ```
-No Releases Added to GitHu!
+No Releases Added to GitHub!
 ```
