@@ -1,6 +1,6 @@
 title: Hydro - The Discord Bot
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 
 plugins:
