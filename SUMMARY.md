@@ -12,6 +12,6 @@
 
 * [List of Command Sectors]()    
 
-    * [Ticket](page2-1.md) 
+    * [Ticket](tcmd.md) 
     
-    * [Help](part2/page2-2.md)
+    * [Help](hcmd.md)
