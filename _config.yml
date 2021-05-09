@@ -3,7 +3,7 @@ title: Hydro - The Discord Bot
 # Build settings
 theme: minima
 
-# header pages
+#header_pages:
 # - README.md
 
 plugins:
