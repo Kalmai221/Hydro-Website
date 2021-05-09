@@ -4,9 +4,9 @@
 
 * [Bot Status](botstatus.md)    
 
-    * [Return to "Introduction"](website.md)    
+    * [Command Count](cmdcount.md)    
 
-    * [Some other child page](part1/page1-2.md)
+    * [Server Count](servercount.md)
 
    
 
@@ -15,9 +15,5 @@
     * [Some child page](page2/page2-1.md)    
 
     * [Some other child page](part2/page2-2.md)    
-
     
 
-## A second-page group
-
-* [Yet another page](another-page.md)
