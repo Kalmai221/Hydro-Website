@@ -2,7 +2,7 @@
 
 ## About Hydro
 
-* [Bot Status](botstatus.md)    
+* [Bot Status]()    
 
     * [Command Count](cmdcount.md)    
 
