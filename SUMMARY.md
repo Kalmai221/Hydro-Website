@@ -2,9 +2,9 @@
 
 ## About Hydro
 
-* [Bot Status](page1/README.md)    
+* [Bot Status](botstatus.md)    
 
-    * [Return to "Introduction"](page1/website.md)    
+    * [Return to "Introduction"](website.md)    
 
     * [Some other child page](part1/page1-2.md)
 
