@@ -28,4 +28,6 @@ V1.018 BETA
 
 Hydro Website Command Added 
 
+Bot Designer List Command Added
+
 ```
