@@ -34,4 +34,4 @@ Bot Designer List Command Added
 ```
 
 # Website Pages
-(In Progress)
+[Commands](https://kalmai221.github.io/hydro-webite/commands.md)
