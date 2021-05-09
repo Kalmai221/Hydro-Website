@@ -21,8 +21,10 @@ V1.017 BETA Changelog
 Improved Flight Calendar for British Jet
 
 Hydro Website Release
-
-Future Updates V1.018 BETA
+```
+# Future Updates
+```
+V1.018 BETA
 
 Hydro Website Command Added 
 
