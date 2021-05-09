@@ -1,10 +1,10 @@
 ‌# Summary
 
-## Introduction to Hydro
+## About Hydro
 
-* [First page's title](page1/README.md)    
+* [Bot Status](page1/README.md)    
 
-    * [Some child page](page1/page1-1.md)    
+    * [Return to "Introduction"](page1/website.md)    
 
     * [Some other child page](part1/page1-2.md)
 
