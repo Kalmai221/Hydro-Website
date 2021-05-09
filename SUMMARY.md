@@ -14,4 +14,4 @@
 
     * [Ticket](tcmd.md) 
     
-    * [Help](hcmd.md)
+    * [More coming soon](hcmd.md)
