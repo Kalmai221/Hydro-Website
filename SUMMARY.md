@@ -1,6 +1,6 @@
 ‌# Summary
 
-## Use headings to create page groups like this one
+## Introduction to Hydro
 
 * [First page's title](page1/README.md)    
 
@@ -8,7 +8,7 @@
 
     * [Some other child page](part1/page1-2.md)
 
-    
+   
 
 * [Second page's title](page2/README.md)    
 
