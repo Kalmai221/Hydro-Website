@@ -3,9 +3,14 @@ title: Hydro - The Discord Bot
 # Build settings
 theme: minima
 
-#header_pages:
-# - README.md
-
+jekyll_admin​:
+  ​hidden_links​:
+    - ​posts​
+    - ​pages​
+    - ​staticfiles​
+    - ​datafiles​
+    - ​configuration​
+  ​homepage​: ​"​pages​"
+  
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+ - jekyll-cms
