@@ -8,12 +8,10 @@
 
     * [Server Count](servercount.md)
 
-   
+## Command Sectors
 
-* [Second page's title](page2/README.md)    
+* [List of Command Sectors]()    
 
-    * [Some child page](page2/page2-1.md)    
-
-    * [Some other child page](part2/page2-2.md)    
+    * [Ticket](page2-1.md) 
     
-
+    * [Help](part2/page2-2.md)
