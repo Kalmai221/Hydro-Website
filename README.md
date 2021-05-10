@@ -35,9 +35,9 @@ Added Hydro Website Command
 ```
 V1.019 BETA
 
-Top.gg Verification
+Top.gg Verification (Pending)
 
-Removed Sign-up command
+Removed Sign-up command (Done)
 
 More Future Update Ideas added soon!
 ``` 
