@@ -15,3 +15,9 @@
     * [Ticket](tcmd.md) 
     
     * [More coming soon](hcmd.md)
+
+## Ticket Commands
+
+* [.new]
+* [.claim]
+* [.close]
