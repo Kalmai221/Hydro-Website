@@ -39,4 +39,6 @@ Bot Designer List Command Added
 
 New Bot Logo (Already Released)
 
+Top.gg Release
+
 ``` 
