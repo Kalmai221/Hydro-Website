@@ -18,6 +18,6 @@
 
 ## Ticket Commands
 
-* [.new]
+* [.new](new.md)
 * [.claim]
 * [.close]
