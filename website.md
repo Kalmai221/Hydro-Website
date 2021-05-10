@@ -31,4 +31,6 @@ Hydro Website Command Added
 
 Bot Designer List Command Added
 
+New Bot Logo (Already Released)
+
 ```
