@@ -19,5 +19,5 @@
 ## Ticket Commands
 
 * [.new](new.md)
-* [.claim]
+* [.claim](claim.md)
 * [.close]
