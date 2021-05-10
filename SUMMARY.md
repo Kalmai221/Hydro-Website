@@ -20,4 +20,5 @@
 
 * [.new](new.md)
 * [.claim](claim.md)
-* [.close]
+* [.close](close.md)
+* [.tsetup]
