@@ -39,5 +39,7 @@ Top.gg Verification (Pending)
 
 Removed Sign-up command (Done)
 
+Remove Bot Data Command
+
 More Future Update Ideas added soon!
 ``` 
