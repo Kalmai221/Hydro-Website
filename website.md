@@ -41,5 +41,5 @@ Removed Sign-up command (Done)
 
 Remove Bot Data Command
 
-More Future Update Ideas added soon!
+Basic Chatbot Commands
 ``` 
