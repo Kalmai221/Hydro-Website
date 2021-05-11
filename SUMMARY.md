@@ -23,4 +23,8 @@
 * [.close](close.md)
 * [.tsetup](tsetup.md)
 
+## Report Commands
 
+* [.suggest](suggest.md)
+* [.ownerdm](ownerdm.md)
+* [.rbug](rbug.md)
