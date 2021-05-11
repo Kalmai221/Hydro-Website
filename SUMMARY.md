@@ -14,7 +14,7 @@
 
     * [Ticket](tcmd.md) 
     
-    * [More coming soon](hcmd.md)
+    * [Report](rcmd.md)
 
 ## Ticket Commands
 
