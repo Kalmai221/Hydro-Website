@@ -22,7 +22,7 @@ Welcome to the Official Hydro - The Discord Bot Website
 V1.018 BETA
 Released on 10/05/2021
 
-V1.018 BETA Changelog
+Changelog
 
 Added New Logo!
 
@@ -41,5 +41,5 @@ Removed Sign-up command (Done)
 
 Remove Bot Data Command
 
-More Future Update Ideas added soon!
+Basic Chatbot Features
 ``` 
